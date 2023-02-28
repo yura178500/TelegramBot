@@ -30,7 +30,6 @@ public class InlineKeyboardMaker {
         inlineKeyboardMarkup.setKeyboard(rowList);
         return inlineKeyboardMarkup;
     }
-
     /**
      * Метод для создания инфо-меню STEP_1
      * Вызывает метод создания кнопки

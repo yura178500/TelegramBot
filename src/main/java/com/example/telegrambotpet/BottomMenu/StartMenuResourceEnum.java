@@ -5,7 +5,6 @@ import lombok.Getter;
 import static com.example.telegrambotpet.constants.BotConstants.*;
 
 public enum StartMenuResourceEnum {
-
     /*
     Главное меню STEP_0
      */

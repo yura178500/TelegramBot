@@ -3,7 +3,6 @@ package com.example.telegrambotpet.BottomMenu;
 import lombok.Getter;
 
 import static com.example.telegrambotpet.constants.BotConstants.*;
-
 /*
 Инфо меню STEP_3
 Меню в которое попадаешь после нажатия 1 кнопки в главном меню STEP_0 (Как взять животное)

@@ -6,7 +6,6 @@ import static com.example.telegrambotpet.constants.BotConstants.*;
 
 public enum InfoShelterMenuEnum {
 
-
     /*
     Инфо меню STEP_1
     Меню в которое попадаешь после нажатия 1 кнопки в главном меню STEP_0 (Информация о приюте)

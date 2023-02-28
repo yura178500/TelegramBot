@@ -166,5 +166,4 @@ public class BotConstants {
             Добавить инфу о комфорте кошки
             
             """;
-
 }
